@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 opencv-python = "*"
 python-dotenv = "*"
+python-socketio = "*"
+aiohttp = "*"
 
 [dev-packages]
 
